@@ -167,4 +167,4 @@ npm run lint:check
 
 ## Contributing
 
-Found an issue or have a suggestion? Please [open an issue](https://github.com/aimeerivers/eslint-config-plus-prettier/issues) or submit a pull request.
+Found an issue or have a suggestion? Please [open an issue](https://github.com/druewilding/eslint-config-plus-prettier/issues) or submit a pull request.

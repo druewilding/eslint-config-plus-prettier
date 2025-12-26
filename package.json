@@ -3,7 +3,7 @@
   "version": "4.2.5",
   "description": "Standard config for ESLint, Prettier and Package Lint. Also includes an optional TSConfig.",
   "license": "ISC",
-  "author": "aimee rivers",
+  "author": "Drue Wilding",
   "files": [
     ".npmpackagejsonlintrc-server.json",
     ".npmpackagejsonlintrc.json",
