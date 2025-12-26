@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-plus-prettier",
-  "version": "4.2.5",
+  "version": "4.2.6",
   "description": "Standard config for ESLint, Prettier and Package Lint. Also includes an optional TSConfig.",
   "license": "ISC",
   "author": "Drue Wilding",
