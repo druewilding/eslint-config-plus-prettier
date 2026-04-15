@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.11](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.10...v4.2.11) (2026-04-15)
+
+
+### Chores
+
+* Update dependencies ([#144](https://github.com/druewilding/eslint-config-plus-prettier/issues/144)) ([32ac350](https://github.com/druewilding/eslint-config-plus-prettier/commit/32ac3507550829a2d6e7b50ae596a3668e95f07a))
+
 ## [4.2.10](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.9...v4.2.10) (2026-03-17)
 
 
