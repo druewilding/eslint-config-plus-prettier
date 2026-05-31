@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.13](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.12...v4.2.13) (2026-05-31)
+
+
+### Bug Fixes
+
+* Avoid lint & format fighting with each other over string escaping ([#148](https://github.com/druewilding/eslint-config-plus-prettier/issues/148)) ([0ecb361](https://github.com/druewilding/eslint-config-plus-prettier/commit/0ecb3614c9cbb3946e1d414578b85583c983d11d))
+
 ## [4.2.12](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.11...v4.2.12) (2026-05-12)
 
 
