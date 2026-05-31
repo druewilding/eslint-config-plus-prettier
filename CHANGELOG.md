@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.15](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.14...v4.2.15) (2026-05-31)
+
+
+### Chores
+
+* Add repo details and use provenance when publishing ([#152](https://github.com/druewilding/eslint-config-plus-prettier/issues/152)) ([fc97b9e](https://github.com/druewilding/eslint-config-plus-prettier/commit/fc97b9ebbffc2f10da2addc2a1bca04d8d65db04))
+
 ## [4.2.14](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.13...v4.2.14) (2026-05-31)
 
 
