@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.14](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.13...v4.2.14) (2026-05-31)
+
+
+### Continuous Integration
+
+* Enable trusted publishing ([#150](https://github.com/druewilding/eslint-config-plus-prettier/issues/150)) ([7ae3a88](https://github.com/druewilding/eslint-config-plus-prettier/commit/7ae3a88b1bea2b58351c34b1f87b1869083a558e))
+
 ## [4.2.13](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.12...v4.2.13) (2026-05-31)
 
 
