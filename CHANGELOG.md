@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.3.0](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.16...v4.3.0) (2026-06-27)
+
+
+### Features
+
+* Add varsIgnorePattern and argsItnorePattern to no-unused-vars ([#156](https://github.com/druewilding/eslint-config-plus-prettier/issues/156)) ([9ab253d](https://github.com/druewilding/eslint-config-plus-prettier/commit/9ab253df72e04c5ea884e522a6ea22e54e6e0f86))
+
 ## [4.2.16](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.2.15...v4.2.16) (2026-06-10)
 
 
