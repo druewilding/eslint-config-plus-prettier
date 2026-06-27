@@ -27,6 +27,6 @@ export default {
     "simple-import-sort/exports": "error",
     quotes: ["error", "double", { avoidEscape: true }],
     "unused-imports/no-unused-imports": "warn",
-    "no-unused-vars": "warn",
+    "no-unused-vars": ["warn", { varsIgnorePattern: "^_", argsIgnorePattern: "^_" }],
   },
 };
