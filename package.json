@@ -35,8 +35,8 @@
     "package:lint": "npx npm-package-json-lint ."
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.61.0",
-    "@typescript-eslint/parser": "^8.61.0",
+    "@typescript-eslint/eslint-plugin": "^8.63.0",
+    "@typescript-eslint/parser": "^8.63.0",
     "eslint": "^9.39.4",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
@@ -45,6 +45,6 @@
     "eslint-plugin-simple-import-sort": "^12.1.1",
     "eslint-plugin-unused-imports": "^4.4.1",
     "npm-package-json-lint": "^9.1.0",
-    "prettier": "^3.8.4"
+    "prettier": "^3.9.5"
   }
 }
