@@ -61,8 +61,11 @@ jobs:
           echo "$PR_TITLE" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
+      # Fix what can be fixed. Some advisories have no fixed version yet, which
+      # makes `npm audit fix` exit with an error. The update PR is how fixes
+      # arrive, so warn instead of stopping it.
       - name: Audit dependencies
-        run: npm audit fix ${{ github.event.inputs.target == 'latest' && '--force' || ''}}
+        run: npm audit fix ${{ github.event.inputs.target == 'latest' && '--force' || ''}} || echo "::warning::Some dependencies have vulnerabilities with no fix yet. Run npm audit for details."
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
