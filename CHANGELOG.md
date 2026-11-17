@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.3.4](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.3.3...v4.3.4) (2026-11-17)
+
+
+### Continuous Integration
+
+* Stop dependency audits blocking update PRs and update actions ([#164](https://github.com/druewilding/eslint-config-plus-prettier/issues/164)) ([9f5830e](https://github.com/druewilding/eslint-config-plus-prettier/commit/9f5830e240bccc75cc590e39fa3bda89aadd0353))
+
 ## [4.3.3](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.3.2...v4.3.3) (2026-09-10)
 
 
