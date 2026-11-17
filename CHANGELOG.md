@@ -1,5 +1,21 @@
 # Changelog
 
+## [5.0.0](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.3.3...v5.0.0) (2026-11-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Needs Node.js 22 or newer. Removes eslint-plugin-import, which the config never used.
+
+### Features
+
+* Update to ESLint 10 and other major versions ([#166](https://github.com/druewilding/eslint-config-plus-prettier/issues/166)) ([e61cfaf](https://github.com/druewilding/eslint-config-plus-prettier/commit/e61cfaf1196c69cc31f6a337ceda5632e691a4dd))
+
+
+### Continuous Integration
+
+* Stop dependency audits blocking update PRs and update actions ([#164](https://github.com/druewilding/eslint-config-plus-prettier/issues/164)) ([9f5830e](https://github.com/druewilding/eslint-config-plus-prettier/commit/9f5830e240bccc75cc590e39fa3bda89aadd0353))
+
 ## [4.3.3](https://github.com/druewilding/eslint-config-plus-prettier/compare/v4.3.2...v4.3.3) (2026-09-10)
 
 
